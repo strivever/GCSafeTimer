@@ -1,5 +1,5 @@
 # GCSafeTimer
-[![CI Status](https://img.shields.io/travis/458362366@qq.com/GCSafeTimer.svg?style=flat)](https://travis-ci.org/458362366@qq.com/GCSafeTimer)
+[![CI Status](https://img.shields.io/badge/build-pass-brightgreen)](https://travis-ci.org/458362366@qq.com/GCSafeTimer)
 [![Version](https://img.shields.io/cocoapods/v/GCSafeTimer.svg?style=flat)](https://cocoapods.org/pods/GCSafeTimer)
 [![License](https://img.shields.io/cocoapods/l/GCSafeTimer.svg?style=flat)](https://cocoapods.org/pods/GCSafeTimer)
 [![Platform](https://img.shields.io/badge/support-iOS8.0-blue)](https://cocoapods.org/pods/GCSafeTimer)
