@@ -1,0 +1,16 @@
+PODS:
+  - GCSafeTimer (0.1.0)
+
+DEPENDENCIES:
+  - GCSafeTimer (from `../`)
+
+EXTERNAL SOURCES:
+  GCSafeTimer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GCSafeTimer: 539586e223722ca36966647c7f8463b7efec6c0d
+
+PODFILE CHECKSUM: e914b2b1f2b5123ce1af9d7fca97fd1c679cf367
+
+COCOAPODS: 1.8.4

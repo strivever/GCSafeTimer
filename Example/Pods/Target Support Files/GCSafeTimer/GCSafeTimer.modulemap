@@ -1,0 +1,6 @@
+framework module GCSafeTimer {
+  umbrella header "GCSafeTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}
