@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'GCSafeTimer_Example' do
+  pod 'GCSafeTimer', :path => '../'
+
+  target 'GCSafeTimer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
